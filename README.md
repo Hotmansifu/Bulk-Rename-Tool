@@ -4,7 +4,8 @@ This is a Python script for bulk renaming files in a directory. The script provi
 
 ## Requirements
 - Python 3.x
-- No external dependencies
+- `pip install PyQt5` in cmd
+
 
 ## Usage
 To use the bulk rename tool, simply run the Python script in a command-line interface or a Python IDE.
@@ -21,3 +22,7 @@ To use the bulk rename tool, simply run the Python script in a command-line inte
 ## Contributing
 
 This script is open-source and contributions are welcome! If you have any ideas for new features or bug fixes, feel free to open an issue or a pull request.
+
+## Licensing
+
+This project is licensed under the terms of the [MIT License](https://opensource.org/licenses/MIT).
